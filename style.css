@@ -6,3 +6,41 @@ img {
     width: auto;
     height: 220px;
 }
+
+.main-title-container {
+    text-align: left;
+    background-color: rgb(71, 11, 83);
+    color: white;
+    padding: 5px 30px;
+    font-size: large;
+}
+
+.dish {
+    font-weight: 800;
+    padding: 3px;
+}
+
+a:link {
+    text-decoration: none;
+    color: black;
+}
+
+a:visited {
+    color:rgb(71, 11, 83)
+}
+
+a:hover {
+    font-size: 17px;
+}
+
+a:active {
+    color: rgb(17, 2, 31);
+}
+
+.dish-title {
+    text-align: center;
+}
+
+.img {
+    text-align: center;
+}
